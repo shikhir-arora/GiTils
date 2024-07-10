@@ -4,3 +4,4 @@ flask-cors
 spotipy
 beautifulsoup4
 lyricsfinder
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
